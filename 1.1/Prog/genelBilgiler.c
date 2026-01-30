@@ -9,6 +9,16 @@
     %lf : double
     */
 /////////////////////////////////////////////////
+/*
+char : (1 byte) one character/ letter/ number or ASCII value
+int : (4 bytes) all numbers
+float : (4 bytes) decimal fraction 7 digits max
+double (8 bytes) decimal fraction containing 16 digits max
+we can name variables with capital or regular letter with '_'
+we cannot use number as a first character (e.g. 2number)
+we cannot use special terms instead of names of variables
+*/
+/////////////////////////////////////////////////
     /*
     \b : deleting the character before it
     \t : put tab space
