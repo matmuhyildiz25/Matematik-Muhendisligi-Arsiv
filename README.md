@@ -172,6 +172,4 @@ Focuses on advanced occupational health and safety practices.
 ---
 
 ## 🤝 Katkıda Bulunanlar
-Nisanur Bilgihan
-Matematik Mühendisliği Öğrencisi – Yıldız Teknik Üniversitesi
-🔗 LinkedIn: https://www.linkedin.com/in/nisanurbilgihan
+Nisanur Bilgihan (LinkedIn: https://www.linkedin.com/in/nisanurbilgihan)
