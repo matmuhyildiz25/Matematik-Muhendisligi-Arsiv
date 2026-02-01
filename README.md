@@ -73,15 +73,13 @@ Dersler dönemlere göre gruplandırılmıştır.
 
 ---
 
-## 🌍 İleri İngilizce 1 (MDB1031)
+### 🌍 İleri İngilizce 1 (MDB1031)
 
-**TR:** Akademik İngilizce.  
-**EN:** Advanced academic English.
+**TR:** Akademik İngilizce becerilerini geliştirmeye yönelik ders.  
+**EN:** Advanced academic English course focusing on reading, writing and technical vocabulary.
 
 **Kaynaklar:**
-- https://github.com/matmuhyildiz25/Matematik-Muhendisligi-Arsiv/tree/main/1.1/%C4%B0leri%20%C4%B0ngilizce%201%20(Advanced%20English%201)%20-%202025-26
-
-</details>
+- [📘 İleri İngilizce 1 Kaynakları](https://github.com/matmuhyildiz25/Matematik-Muhendisligi-Arsiv/tree/main/1.1/%C4%B0leri%20%C4%B0ngilizce%201%20(Advanced%20English%201)%20-%202025-26)
 
 ---
 
