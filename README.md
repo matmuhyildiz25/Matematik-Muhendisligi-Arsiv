@@ -174,6 +174,8 @@ Focuses on advanced occupational health and safety practices.
 
 <details>
 <summary><strong>🗓️ Dönemler</strong></summary>
+
+---
   
 <details> <summary><strong>📂 1. Dönem (Güz)</strong></summary>
 
@@ -224,6 +226,10 @@ Akademik yazma, sunum teknikleri ve Türkçenin doğru ve etkili kullanımı üz
 **EN:**  
 Focuses on academic writing, presentation skills, and effective use of Turkish.
 🔗 https://github.com/matmuhyildiz25/Matematik-Muhendisligi-Arsiv/tree/main/2.1/Turkce%201
+</details>
+
+---
+
 </details>
 
 ---
