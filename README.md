@@ -272,4 +272,4 @@ Ana kurallar:
 ## 🤝 Katkıda Bulunanlar
 ---
 ### Nisanur Bilgihan
-<i class="fa-brands fa-linkedin" style="color: #002e7a;"></i> LinkedIn: https://www.linkedin.com/in/nisanurbilgihan
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-002e7a?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisanurbilgihan)
