@@ -12,12 +12,19 @@ Dosyalar dönem ve ders bazlı olacak şekilde düzenlenmelidir.
 Örnek:
 
 1-Sinif/
+---
 ├── 1-Donem/
+---
 │ ├── Analiz/
+---
 │ ├── Lineer-Cebir/
+---
 │ └── Programlama/
+---
 └── 2-Donem/
+---
 ├── Diferansiyel-Denklemler/
+---
 └── Olasilik/
 
 
