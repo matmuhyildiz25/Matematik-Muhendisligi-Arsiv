@@ -62,10 +62,11 @@ Commit mesajları:
 
 Örnek:
 
+```
 Add Linear Algebra notes - Week 3
 Fix typo in README
 Update Calculus final exam 2023
-
+```
 
 ---
 
