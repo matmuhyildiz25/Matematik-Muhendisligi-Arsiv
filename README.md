@@ -156,6 +156,42 @@ Focuses on advanced occupational health and safety practices.
 
 ---
 
+📚 2. Sınıf
+<details> <summary><strong>📂 1. Dönem (Güz)</strong></summary>
+📐 Analitik Geometri (MTM2501)
+TR:
+Doğrular, düzlemler, konikler, ikinci dereceden yüzeyler ve koordinat sistemleri yardımıyla geometrik yapıların incelenmesini kapsar.
+EN:
+Covers lines, planes, conic sections, quadric surfaces, and coordinate geometry.
+🔗 Analitik Geometri Klasörü
+📘 Diferansiyel Denklemler (MTM2503)
+TR:
+Birinci ve yüksek mertebeden diferansiyel denklemler, başlangıç ve sınır değer problemleri ile mühendislik uygulamaları ele alınır.
+EN:
+Studies first and higher order differential equations, initial and boundary value problems, and engineering applications.
+🔗 (Henüz link eklenmedi)
+📙 İleri Analiz I (MTM2505)
+TR:
+Gerçek sayılar teorisi, metrik uzaylar, yakınsaklık, süreklilik ve fonksiyon dizileri gibi ileri analiz konularını içerir.
+EN:
+Covers real analysis topics such as metric spaces, convergence, continuity, and sequences of functions.
+🔗 İleri Analiz I Klasörü
+📊 Numerik Analiz I (MTM2507)
+TR:
+Doğrusal olmayan denklemlerin köklerinin bulunması, lineer sistemlerin nümerik çözümleri ve interpolasyon yöntemleri işlenir.
+EN:
+Introduces numerical methods for root finding, solving linear systems, and interpolation techniques.
+🔗 Numerik Analiz I Klasörü
+📝 Türkçe I (TURK1001)
+TR:
+Akademik yazma, sunum teknikleri ve Türkçenin doğru ve etkili kullanımı üzerine odaklanır.
+EN:
+Focuses on academic writing, presentation skills, and effective use of Turkish.
+🔗 Türkçe I Klasörü
+</details>
+
+---
+
 ## 📌 Nasıl Kullanılır?
 
 - İlgilendiğiniz sınıf ve dönemi açmak için başlığa tıklayın.
