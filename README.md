@@ -14,6 +14,8 @@ Her ders için Türkçe açıklama ve kısa İngilizce karşılığı bulunmakta
 
 <details>
 <summary><strong>🗓️ Dönemler</strong></summary>
+
+---
   
 <details>
 <summary><strong>📂 1. Dönem (Güz)</strong></summary>
@@ -174,6 +176,8 @@ Focuses on advanced occupational health and safety practices.
 <summary><strong>🗓️ Dönemler</strong></summary>
   
 <details> <summary><strong>📂 1. Dönem (Güz)</strong></summary>
+
+---
   
 ### 📐 Analitik Geometri (MTM2501)
 **TR:**  
