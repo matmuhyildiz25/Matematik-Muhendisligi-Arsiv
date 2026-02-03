@@ -271,4 +271,6 @@ Ana kurallar:
 ---
 ## 🤝 Katkıda Bulunanlar
 ---
-### Nisanur Bilgihan [<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18"/>](https://www.linkedin.com/in/nisanurbilgihan)
+### Nisanur Bilgihan 
+[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18"/>](https://www.linkedin.com/in/nisanurbilgihan)
+
