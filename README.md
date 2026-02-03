@@ -11,6 +11,9 @@ Her ders için Türkçe açıklama ve kısa İngilizce karşılığı bulunmakta
 ## 📚 1. Sınıf
 
 <details>
+<summary><strong>📂 Dönemler</strong></summary>
+  
+<details>
 <summary><strong>📂 1. Dönem (Güz)</strong></summary>
 
 ### 📘 Analiz I (MTM1501)
@@ -157,6 +160,10 @@ Focuses on advanced occupational health and safety practices.
 ---
 
 ## 📚 2. Sınıf
+
+<details>
+<summary><strong>📂 Dönemler</strong></summary>
+  
 <details> <summary><strong>📂 1. Dönem (Güz)</strong></summary>
   
 ### 📐 Analitik Geometri (MTM2501)
