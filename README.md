@@ -156,7 +156,7 @@ Focuses on advanced occupational health and safety practices.
 
 ---
 
-📚 2. Sınıf
+## 📚 2. Sınıf
 <details> <summary><strong>📂 1. Dönem (Güz)</strong></summary>
 📐 Analitik Geometri (MTM2501)
 TR:
