@@ -251,35 +251,5 @@ Focuses on academic writing, presentation skills, and effective use of Turkish.
 
 ---
 
-## 🔧 Katkı Yapmak (Contributing)
-Bu projeye doğrudan push atılamaz.
-Tüm katkılar Pull Request (PR) yoluyla değerlendirilir.
-
-<details>
-<summary><strong></summary>
-  
-### 🇹🇷 Adımlar:
-
-Repoyu Fork edin.
-Fork’unuzu bilgisayarınıza klonlayın:
-   git clone https://github.com/kullaniciadi/proje-adi.git
----
-Yeni bir branch oluşturun:
-   git checkout -b yeni-ozellik
----
-Değişikliklerinizi yapın ve commit atın:
-   git add .
-   git commit -m "Yeni dosya eklendi"
----   
-Fork’unuza push edin:
-   git push origin yeni-ozellik
----   
-GitHub üzerinden Pull Request açın.
----
-İnceleme sonrası kabul veya reddedilecektir.
----
-</details>
----
-
 ## 🤝 Katkıda Bulunanlar
 Nisanur Bilgihan (LinkedIn: https://www.linkedin.com/in/nisanurbilgihan)
