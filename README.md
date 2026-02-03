@@ -157,13 +157,13 @@ Focuses on advanced occupational health and safety practices.
 ---
 
 📚 2. Sınıf
-📂 1. Dönem (Güz)
+<details> <summary><strong>📂 1. Dönem (Güz)</strong></summary>
 📐 Analitik Geometri (MTM2501)
 TR:
 Doğrular, düzlemler, konikler, ikinci dereceden yüzeyler ve koordinat sistemleri yardımıyla geometrik yapıların incelenmesini kapsar.
 EN:
 Covers lines, planes, conic sections, quadric surfaces, and coordinate geometry.
-🔗 Analitik Geometri Klasörü
+🔗 https://github.com/matmuhyildiz25/Matematik-Muhendisligi-Arsiv/tree/main/2.1/Analitik%20Geometri%20(Analytic%20Geometry)/Fatih%20Aylıkçı%20Notlar
 📘 Diferansiyel Denklemler (MTM2503)
 TR:
 Birinci ve yüksek mertebeden diferansiyel denklemler, başlangıç ve sınır değer problemleri ile mühendislik uygulamaları ele alınır.
@@ -175,19 +175,20 @@ TR:
 Gerçek sayılar teorisi, metrik uzaylar, yakınsaklık, süreklilik ve fonksiyon dizileri gibi ileri analiz konularını içerir.
 EN:
 Covers real analysis topics such as metric spaces, convergence, continuity, and sequences of functions.
-🔗 İleri Analiz I Klasörü
+🔗 https://github.com/matmuhyildiz25/Matematik-Muhendisligi-Arsiv/tree/main/2.1/Ileri%20Analiz%201%20(Advanced%20Analysis%201)
 📊 Numerik Analiz I (MTM2507)
 TR:
 Doğrusal olmayan denklemlerin köklerinin bulunması, lineer sistemlerin nümerik çözümleri ve interpolasyon yöntemleri işlenir.
 EN:
 Introduces numerical methods for root finding, solving linear systems, and interpolation techniques.
-🔗 Numerik Analiz I Klasörü
+🔗 https://github.com/matmuhyildiz25/Matematik-Muhendisligi-Arsiv/tree/main/2.1/Numerik%20Analiz%201%20(Numeric%20Analysis%201)/Fatih%20Aylıkçı%20Notlar
 📝 Türkçe I (TURK1001)
 TR:
 Akademik yazma, sunum teknikleri ve Türkçenin doğru ve etkili kullanımı üzerine odaklanır.
 EN:
 Focuses on academic writing, presentation skills, and effective use of Turkish.
-🔗 Türkçe I Klasörü
+🔗 https://github.com/matmuhyildiz25/Matematik-Muhendisligi-Arsiv/tree/main/2.1/Turkce%201
+</details>
 
 ---
 
