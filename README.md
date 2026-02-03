@@ -168,6 +168,7 @@ Covers lines, planes, conic sections, quadric surfaces, and coordinate geometry.
 
 🔗 https://github.com/matmuhyildiz25/Matematik-Muhendisligi-Arsiv/tree/main/2.1/Analitik%20Geometri%20(Analytic%20Geometry)/Fatih%20Aylıkçı%20Notlar
 
+---
 
 ### 📘 Diferansiyel Denklemler (MTM2503)
 **TR:**
@@ -177,6 +178,7 @@ Birinci ve yüksek mertebeden diferansiyel denklemler, başlangıç ve sınır d
 Studies first and higher order differential equations, initial and boundary value problems, and engineering applications.
 🔗 (Henüz link eklenmedi)
 
+---
 
 ### 📙 İleri Analiz I (MTM2505)
 **TR:**
@@ -185,6 +187,7 @@ Gerçek sayılar teorisi, metrik uzaylar, yakınsaklık, süreklilik ve fonksiyo
 Covers real analysis topics such as metric spaces, convergence, continuity, and sequences of functions.
 🔗 https://github.com/matmuhyildiz25/Matematik-Muhendisligi-Arsiv/tree/main/2.1/Ileri%20Analiz%201%20(Advanced%20Analysis%201)
 
+---
 
 ### 📊 Numerik Analiz I (MTM2507)
 **TR:**
@@ -193,6 +196,7 @@ Doğrusal olmayan denklemlerin köklerinin bulunması, lineer sistemlerin nümer
 Introduces numerical methods for root finding, solving linear systems, and interpolation techniques.
 🔗 https://github.com/matmuhyildiz25/Matematik-Muhendisligi-Arsiv/tree/main/2.1/Numerik%20Analiz%201%20(Numeric%20Analysis%201)/Fatih%20Aylıkçı%20Notlar
 
+---
 
 ### 📝 Türkçe I (TURK1001)
 **TR:**
