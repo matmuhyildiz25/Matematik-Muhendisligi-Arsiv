@@ -251,5 +251,24 @@ Focuses on academic writing, presentation skills, and effective use of Turkish.
 
 ---
 
-## 🤝 Katkıda Bulunanlar
+## 🤝 Katkıda Bulunma Direktifleri (Contribution Guidelines)
+
+Bu projeye katkı sağlamak isteyen herkes belirlenen kurallara uymalıdır.
+
+📄 Detaylı katkı rehberi için:  
+👉 `docs/contributing/CONTRIBUTING.md`
+
+Katkılar yalnızca **Pull Request (PR)** yoluyla kabul edilir.
+
+Ana kurallar:
+- main branch’e doğrudan commit atılamaz.
+- Yeni bir branch açılmalıdır.
+- PR açıklaması doldurulmalıdır.
+- Dosya isimlendirme ve klasör yapısına uyulmalıdır.
+- Commit mesaj formatına dikkat edilmelidir.
+
+
+---
+## 
+🤝 Katkıda Bulunanlar
 Nisanur Bilgihan (LinkedIn: https://www.linkedin.com/in/nisanurbilgihan)
