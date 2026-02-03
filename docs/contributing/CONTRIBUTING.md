@@ -31,12 +31,13 @@ Dosyalar dönem ve ders bazlı olacak şekilde düzenlenmelidir.
 - Küçük harf tercih edin
 - Açıklayıcı isimler verin
 
-Doğru örnekler:
+Örnekler:
 
+```
 analiz-limit-notlari.pdf
 linear-algebra-week3.pdf
 final-sorulari-2024.pdf
-
+```
 
 ---
 
