@@ -256,7 +256,7 @@ Focuses on academic writing, presentation skills, and effective use of Turkish.
 Bu projeye katkı sağlamak isteyen herkes belirlenen kurallara uymalıdır.
 
 📄 Detaylı katkı rehberi için:  
-👉 `docs/contributing/CONTRIBUTING.md`
+👉 [docs/contributing/CONTRIBUTING.md](docs/contributing/CONTRIBUTING.md)
 
 Katkılar yalnızca **Pull Request (PR)** yoluyla kabul edilir.
 
