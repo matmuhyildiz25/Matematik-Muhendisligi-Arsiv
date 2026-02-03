@@ -269,6 +269,8 @@ Ana kurallar:
 
 
 ---
-## 
-🤝 Katkıda Bulunanlar
-Nisanur Bilgihan (LinkedIn: https://www.linkedin.com/in/nisanurbilgihan)
+## 🤝 Katkıda Bulunanlar
+---
+### Nisanur Bilgihan
+---
+(LinkedIn: https://www.linkedin.com/in/nisanurbilgihan)
