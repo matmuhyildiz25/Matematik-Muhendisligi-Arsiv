@@ -10,8 +10,10 @@ Her ders için Türkçe açıklama ve kısa İngilizce karşılığı bulunmakta
 
 ## 📚 1. Sınıf
 
+---
+
 <details>
-<summary><strong>📂 Dönemler</strong></summary>
+<summary><strong>🗓️ Dönemler</strong></summary>
   
 <details>
 <summary><strong>📂 1. Dönem (Güz)</strong></summary>
@@ -159,10 +161,17 @@ Focuses on advanced occupational health and safety practices.
 
 ---
 
+</details>
+
+---
+
+
 ## 📚 2. Sınıf
 
+---
+
 <details>
-<summary><strong>📂 Dönemler</strong></summary>
+<summary><strong>🗓️ Dönemler</strong></summary>
   
 <details> <summary><strong>📂 1. Dönem (Güz)</strong></summary>
   
