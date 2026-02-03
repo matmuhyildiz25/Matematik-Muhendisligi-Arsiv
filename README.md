@@ -157,7 +157,7 @@ Focuses on advanced occupational health and safety practices.
 ---
 
 📚 2. Sınıf
-<details> <summary><strong>📂 1. Dönem (Güz)</strong></summary>
+<details> <summary><strong>📂 1. Dönem (Güz)</strong></summary> <br>
 📐 Analitik Geometri (MTM2501)
 TR:
 Doğrular, düzlemler, konikler, ikinci dereceden yüzeyler ve koordinat sistemleri yardımıyla geometrik yapıların incelenmesini kapsar.
