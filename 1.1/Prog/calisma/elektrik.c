@@ -15,23 +15,24 @@ Fatura miktarı = (Harcanan elektrik * Birim fiyat) + Abonelik ücreti
 int main()
 {
     float odenecekFatura , eskiBirimFiyat , yeniBirimFiyat , enflasyon , eskiAbonelikUcreti , yeniAbonelikUcreti;
-    int yeniOkuma , eskiOkuma , toplamHarcananElektrik
+    int yeniOkuma , eskiOkuma , toplamHarcananElektrik;
+    char buf[64];
 
     //Kullanıcı verilerinin alınması
     printf("Onceki aya ait enflasyon giriniz:");
-    scanf(%f , &enflasyon);
+    fgets(buf, sizeof(buf), stdin); sscanf(buf, "%f", &enflasyon);
 
     printf("Onceki aya ait birim fiyati giriniz:");
-    scanf(%f , &eskiBirimFiyat);
+    fgets(buf, sizeof(buf), stdin); sscanf(buf, "%f", &eskiBirimFiyat);
 
     printf("Onceki abonelik ücreti giriniz:");
-    scanf(%f , &eskiAbonelikUcreti);
+    fgets(buf, sizeof(buf), stdin); sscanf(buf, "%f", &eskiAbonelikUcreti);
 
     printf("Onceki aya ait okuma değeri giriniz:");
-    scanf(%d , &eskiOkuma);
+    fgets(buf, sizeof(buf), stdin); sscanf(buf, "%d", &eskiOkuma);
 
     printf("Bu aya ait okuma değeri giriniz:");
-    scanf(%d , &yeniOkuma);
+    fgets(buf, sizeof(buf), stdin); sscanf(buf, "%d", &yeniOkuma);
 
 
     toplamHarcananElektrik = yeniOkuma - eskiOkuma;
