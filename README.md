@@ -4,23 +4,21 @@ Bu depo, **Yıldız Teknik Üniversitesi Matematik Mühendisliği** lisans progr
 
 Dersler **sınıf ve dönem bazında** gruplandırılmıştır.
 
-Her ders için:
-
-* 🇹🇷 Türkçe ders açıklaması
-* 🇬🇧 Kısa İngilizce karşılığı
-* 🔗 İlgili ders arşivi
-
-sunulmaktadır.
+Her ders için Türkçe açıklama, kısa İngilizce karşılık ve ilgili ders arşivi bulunmaktadır.
 
 ---
 
-## 📚 1. Sınıf
+<details>
+<summary><strong>📚 1. Sınıf</strong></summary>
 
----
+<br>
 
-### 📂 1. Dönem (Güz)
+<details>
+<summary><strong>📂 1. Dönem (Güz)</strong></summary>
 
-#### 📘 Analiz I — MTM1501
+<br>
+
+### 📘 Analiz I — MTM1501
 
 **TR:**
 Limit, süreklilik, türev ve türevin uygulamaları gibi tek değişkenli fonksiyonlara ait temel kavramları kapsar.
@@ -34,7 +32,7 @@ Covers limits, continuity, derivatives, and applications of single-variable func
 
 ---
 
-#### 💻 Programlama Dilleri I — MTM1511
+### 💻 Programlama Dilleri I — MTM1511
 
 **TR:**
 Algoritma mantığı, değişkenler, koşullu ifadeler, döngüler ve temel C programlama yapıları öğretilir.
@@ -46,7 +44,7 @@ Introduces algorithms, control structures, loops, and basic C programming.
 
 ---
 
-#### 📐 Matematik Mühendisliğine Giriş — MTM1561
+### 📐 Matematik Mühendisliğine Giriş — MTM1561
 
 **TR:**
 Matematik mühendisliği disiplininin tanıtımı, uygulama alanları ve matematiksel problem çözme yaklaşımı ele alınır.
@@ -58,7 +56,7 @@ Introduces mathematical engineering, its application areas, and mathematical pro
 
 ---
 
-#### ⚠️ İş Sağlığı ve Güvenliği I — MTM1551
+### ⚠️ İş Sağlığı ve Güvenliği I — MTM1551
 
 **TR:**
 İş kazalarının önlenmesi, risk analizi ve güvenli çalışma ortamlarının oluşturulmasına ilişkin temel bilgiler ele alınır.
@@ -70,7 +68,7 @@ Covers fundamental occupational health and safety principles, risk assessment, a
 
 ---
 
-#### 🔬 Fizik I — FIZ1001
+### 🔬 Fizik I — FIZ1001
 
 **TR:**
 Klasik mekaniğin temelleri; hareket, kuvvet, iş, enerji ve momentum konuları işlenir.
@@ -82,7 +80,7 @@ Introduces classical mechanics, including motion, forces, work, energy, and mome
 
 ---
 
-#### 🌍 İleri İngilizce I — MDB1031
+### 🌍 İleri İngilizce I — MDB1031
 
 **TR:**
 Akademik okuma-yazma, teknik metin analizi ve iletişim becerileri üzerine odaklanır.
@@ -94,11 +92,16 @@ Focuses on academic reading, writing, and technical communication skills.
 
 **📊 Toplam AKTS: 29**
 
----
+</details>
 
-### 📂 2. Dönem (Bahar)
+<br>
 
-#### 📘 Analiz II — MTM1502
+<details>
+<summary><strong>📂 2. Dönem (Bahar)</strong></summary>
+
+<br>
+
+### 📘 Analiz II — MTM1502
 
 **TR:**
 İntegral, seriler ve tek değişkenli analiz konularının devamı niteliğindeki ileri konuları kapsar.
@@ -110,7 +113,7 @@ Continues single-variable analysis with integration, series, and related topics.
 
 ---
 
-#### 💻 Programlama Dilleri II — MTM1512
+### 💻 Programlama Dilleri II — MTM1512
 
 **TR:**
 Fonksiyonlar, diziler, pointer'lar, dinamik bellek ve dosya işlemleri gibi ileri C programlama konuları ele alınır.
@@ -122,7 +125,7 @@ Covers advanced C programming concepts including functions, arrays, pointers, dy
 
 ---
 
-#### 📊 Lineer Cebir — MTM1531
+### 📊 Lineer Cebir — MTM1531
 
 **TR:**
 Matrisler, determinantlar, vektör uzayları ve doğrusal denklem sistemleri işlenir.
@@ -134,7 +137,7 @@ Covers matrices, determinants, vector spaces, and systems of linear equations.
 
 ---
 
-#### ⚠️ İş Sağlığı ve Güvenliği II — MTM1552
+### ⚠️ İş Sağlığı ve Güvenliği II — MTM1552
 
 **TR:**
 İş sağlığı ve güvenliği alanındaki ileri uygulamalar, risk değerlendirmesi ve ilgili mevzuat ele alınır.
@@ -146,7 +149,7 @@ Focuses on advanced occupational health and safety practices, risk assessment, a
 
 ---
 
-#### 🔬 Fizik II — FIZ1002
+### 🔬 Fizik II — FIZ1002
 
 **TR:**
 Elektrik, manyetizma ve elektromanyetik olayların temel prensiplerini kapsar.
@@ -158,7 +161,7 @@ Covers fundamental concepts of electricity, magnetism, and electromagnetism.
 
 ---
 
-#### 🌍 İleri İngilizce II — MDB1032
+### 🌍 İleri İngilizce II — MDB1032
 
 **TR:**
 Akademik ve teknik İngilizce becerilerinin geliştirilmesine yönelik okuma, yazma ve iletişim çalışmaları içerir.
@@ -170,15 +173,23 @@ Develops academic and technical English through reading, writing, and communicat
 
 **📊 Toplam AKTS: 31**
 
+</details>
+
+</details>
+
 ---
 
-## 📚 2. Sınıf
+<details>
+<summary><strong>📚 2. Sınıf</strong></summary>
 
----
+<br>
 
-### 📂 1. Dönem (Güz)
+<details>
+<summary><strong>📂 1. Dönem (Güz)</strong></summary>
 
-#### 📘 İleri Analiz I — MTM2501
+<br>
+
+### 📘 İleri Analiz I — MTM2501
 
 **TR:**
 Gerçek sayılar, metrik uzaylar, yakınsaklık, süreklilik ve fonksiyon dizileri gibi ileri analiz konularını kapsar.
@@ -190,7 +201,7 @@ Covers advanced real analysis topics including metric spaces, convergence, conti
 
 ---
 
-#### 💻 Algoritmalar ve Veri Yapıları — MTM2511
+### 💻 Algoritmalar ve Veri Yapıları — MTM2511
 
 **TR:**
 Algoritma tasarımı, karmaşıklık analizi ve temel veri yapıları ele alınır.
@@ -202,7 +213,7 @@ Covers algorithm design, complexity analysis, and fundamental data structures.
 
 ---
 
-#### 📊 Nümerik Analiz I — MTM2521
+### 📊 Nümerik Analiz I — MTM2521
 
 **TR:**
 Denklemlerin köklerinin bulunması, doğrusal sistemlerin çözümü ve çeşitli nümerik yöntemler ele alınır.
@@ -214,7 +225,7 @@ Introduces numerical methods for root finding, linear systems, and numerical com
 
 ---
 
-#### 📐 Diferansiyel Denklemler — MTM2531
+### 📐 Diferansiyel Denklemler — MTM2531
 
 **TR:**
 Birinci ve yüksek mertebeden diferansiyel denklemler, başlangıç ve sınır değer problemleri ile mühendislik uygulamaları ele alınır.
@@ -226,7 +237,7 @@ Studies first- and higher-order differential equations, initial and boundary val
 
 ---
 
-#### 📝 Türkçe I — TDB1031
+### 📝 Türkçe I — TDB1031
 
 **TR:**
 Türkçenin doğru ve etkili kullanımı, akademik yazım ve iletişim becerileri üzerine odaklanır.
@@ -238,10 +249,10 @@ Focuses on effective Turkish usage, academic writing, and communication skills.
 
 ---
 
-#### 🎓 Üniversite Sosyal Seçmeli — USS-2G
+### 🎓 Üniversite Sosyal Seçmeli — USS-2G
 
 **TR:**
-Öğrencinin üniversite eğitimi süresince farklı disiplinlerden sosyal ve kültürel bir ders seçmesini sağlar.
+Öğrencinin farklı disiplinlerden sosyal ve kültürel bir ders seçmesini sağlar.
 
 **EN:**
 Provides students with an opportunity to take a social or cultural elective course outside their main discipline.
@@ -250,23 +261,28 @@ Provides students with an opportunity to take a social or cultural elective cour
 
 **📊 Toplam AKTS: 29**
 
----
+</details>
 
-### 📂 2. Dönem (Bahar)
+<br>
 
-#### 📘 İleri Analiz II — MTM2502
+<details>
+<summary><strong>📂 2. Dönem (Bahar)</strong></summary>
+
+<br>
+
+### 📘 İleri Analiz II — MTM2502
 
 **TR:**
-İleri analiz konularının devamı niteliğinde olup gerçek ve fonksiyonel analiz konularını daha ileri seviyede ele alır.
+İleri analiz konularının devamı niteliğinde olup analiz konularını daha ileri seviyede ele alır.
 
 **EN:**
-Continues advanced analysis with more advanced topics in real and functional analysis.
+Continues advanced analysis with more advanced topics in analysis.
 
 🔗 **Ders arşivi henüz eklenmedi.**
 
 ---
 
-#### 🎲 Olasılık Teorisi — MTM2592
+### 🎲 Olasılık Teorisi — MTM2592
 
 **TR:**
 Olasılık uzayları, rassal değişkenler, dağılımlar ve temel olasılık teorisi konuları işlenir.
@@ -278,7 +294,7 @@ Covers probability spaces, random variables, probability distributions, and fund
 
 ---
 
-#### 💾 Veri Yönetimi ve Dosya Yapıları I — MTM2522
+### 💾 Veri Yönetimi ve Dosya Yapıları I — MTM2522
 
 **TR:**
 Verilerin düzenlenmesi, saklanması ve erişilmesi için kullanılan dosya yapıları ve veri yönetimi yöntemleri ele alınır.
@@ -290,7 +306,7 @@ Covers data management techniques and file structures for storing, organizing, a
 
 ---
 
-#### 📐 Analitik Geometri — MTM2532
+### 📐 Analitik Geometri — MTM2532
 
 **TR:**
 Doğrular, düzlemler, konikler, koordinat sistemleri ve geometrik yapıların analitik yöntemlerle incelenmesi ele alınır.
@@ -302,7 +318,7 @@ Covers lines, planes, conic sections, coordinate systems, and analytical approac
 
 ---
 
-#### 📝 Türkçe II — TDB1032
+### 📝 Türkçe II — TDB1032
 
 **TR:**
 Türkçe dil bilgisi, akademik iletişim ve yazılı anlatım becerilerinin geliştirilmesini amaçlar.
@@ -312,15 +328,23 @@ Develops Turkish language, academic communication, and written expression skills
 
 🔗 **Ders arşivi henüz eklenmedi.**
 
+</details>
+
+</details>
+
 ---
 
-## 📚 3. Sınıf
+<details>
+<summary><strong>📚 3. Sınıf</strong></summary>
 
----
+<br>
 
-### 📂 1. Dönem (Güz)
+<details>
+<summary><strong>📂 1. Dönem (Güz)</strong></summary>
 
-#### 📈 Lineer Programlama Teorisi — MTM3691
+<br>
+
+### 📈 Lineer Programlama Teorisi — MTM3691
 
 **TR:**
 Lineer programlama problemlerinin matematiksel modellenmesi, çözüm yöntemleri ve optimizasyon yaklaşımları ele alınır.
@@ -332,7 +356,7 @@ Covers mathematical modeling and solution methods for linear programming and opt
 
 ---
 
-#### ⚙️ Mekanik I — MTM3701
+### ⚙️ Mekanik I — MTM3701
 
 **TR:**
 Mekanik sistemlerin temel prensipleri, hareket denklemleri ve kuvvetlerin matematiksel modellenmesi incelenir.
@@ -344,7 +368,7 @@ Studies fundamental principles of mechanics, equations of motion, and mathematic
 
 ---
 
-#### 📊 İstatistik — MTM3651
+### 📊 İstatistik — MTM3651
 
 **TR:**
 Verilerin analizi, olasılık dağılımları, istatistiksel tahmin ve temel istatistiksel yöntemler ele alınır.
@@ -356,7 +380,7 @@ Covers data analysis, probability distributions, statistical estimation, and fun
 
 ---
 
-#### 🇹🇷 Atatürk İlkeleri ve İnkılâp Tarihi I — ATA1031
+### 🇹🇷 Atatürk İlkeleri ve İnkılâp Tarihi I — ATA1031
 
 **TR:**
 Türkiye Cumhuriyeti'nin kuruluş süreci, Atatürk ilke ve inkılapları ile modern Türkiye'nin oluşumu ele alınır.
@@ -366,11 +390,16 @@ Covers the foundation of the Republic of Türkiye, Atatürk's principles and ref
 
 🔗 **Ders arşivi henüz eklenmedi.**
 
----
+</details>
 
-### 📂 2. Dönem (Bahar)
+<br>
 
-#### 📐 Kısmi Diferansiyel Denklemler — MTM3502
+<details>
+<summary><strong>📂 2. Dönem (Bahar)</strong></summary>
+
+<br>
+
+### 📐 Kısmi Diferansiyel Denklemler — MTM3502
 
 **TR:**
 Kısmi diferansiyel denklemlerin temel teorisi ve fiziksel/mühendislik problemlerine uygulanması ele alınır.
@@ -382,7 +411,7 @@ Covers the fundamentals of partial differential equations and their applications
 
 ---
 
-#### 🧮 Kompleks Analiz I — MTM3512
+### 🧮 Kompleks Analiz I — MTM3512
 
 **TR:**
 Kompleks fonksiyonlar, analitiklik, kompleks integraller, kuvvet serileri ve ilgili temel teoremler incelenir.
@@ -394,7 +423,7 @@ Studies complex functions, analyticity, complex integration, power series, and f
 
 ---
 
-#### 🔢 Cebir — MTM3522
+### 🔢 Cebir — MTM3522
 
 **TR:**
 Gruplar, halkalar, cisimler ve cebirsel yapıların temel özellikleri incelenir.
@@ -406,7 +435,7 @@ Introduces algebraic structures including groups, rings, and fields.
 
 ---
 
-#### 🇹🇷 Atatürk İlkeleri ve İnkılâp Tarihi II — ATA1032
+### 🇹🇷 Atatürk İlkeleri ve İnkılâp Tarihi II — ATA1032
 
 **TR:**
 Cumhuriyet dönemindeki siyasi, sosyal ve ekonomik gelişmeler ile Atatürk ilke ve inkılaplarının devamı ele alınır.
@@ -418,15 +447,23 @@ Covers political, social, and economic developments during the Republican era an
 
 **📊 Toplam AKTS: 30**
 
+</details>
+
+</details>
+
 ---
 
-## 📚 4. Sınıf
+<details>
+<summary><strong>📚 4. Sınıf</strong></summary>
 
----
+<br>
 
-### 📂 1. Dönem (Güz)
+<details>
+<summary><strong>📂 1. Dönem (Güz)</strong></summary>
 
-#### 📊 Yöneylem Araştırması — MTM4501
+<br>
+
+### 📊 Yöneylem Araştırması — MTM4501
 
 **TR:**
 Optimizasyon, karar verme ve kaynakların etkin kullanımı için matematiksel modelleme ve çözüm yöntemleri ele alınır.
@@ -436,11 +473,16 @@ Covers mathematical modeling and optimization techniques for decision-making and
 
 🔗 **Ders arşivi henüz eklenmedi.**
 
----
+</details>
 
-### 📂 2. Dönem (Bahar)
+<br>
 
-#### 🎯 Optimizasyon Teknikleri — MTM4502
+<details>
+<summary><strong>📂 2. Dönem (Bahar)</strong></summary>
+
+<br>
+
+### 🎯 Optimizasyon Teknikleri — MTM4502
 
 **TR:**
 Optimizasyon problemlerinin modellenmesi ve çözümünde kullanılan analitik ve sayısal teknikler ele alınır.
@@ -450,16 +492,20 @@ Covers analytical and numerical techniques for modeling and solving optimization
 
 🔗 **Ders arşivi henüz eklenmedi.**
 
+</details>
+
+</details>
+
 ---
 
 # 📌 Nasıl Kullanılır?
 
-1. İlgilendiğiniz **sınıfı** bulun.
-2. İlgili **dönemi** seçin.
-3. Ders açıklamasından dersin kapsamı hakkında bilgi edinin.
-4. 🔗 **Ders Arşivi** bağlantısına tıklayarak ilgili klasöre gidin.
+* İlgilendiğiniz **sınıfı açın**.
+* İlgili **dönemi açın**.
+* Ders açıklamasını okuyarak içerik hakkında bilgi edinin.
+* 🔗 **Ders Arşivi** bağlantısına tıklayarak ilgili ders klasörüne gidin.
 
-Ders klasörlerinde mümkün olduğunca aşağıdaki içerikler düzenli şekilde tutulur:
+Ders klasörlerinde mümkün olduğunca:
 
 * 📚 Ders notları
 * 📊 Slaytlar
@@ -468,6 +514,8 @@ Ders klasörlerinde mümkün olduğunca aşağıdaki içerikler düzenli şekild
 * 📄 Ek PDF kaynakları
 * 💻 Kodlar ve uygulamalar
 * 📎 Faydalı bağlantılar
+
+bulunur.
 
 ---
 
@@ -482,8 +530,8 @@ Katkıda bulunmak isteyen herkes **Pull Request (PR)** üzerinden katkı sağlay
 * `main` branch'ine doğrudan commit atılmamalıdır.
 * Yeni bir branch oluşturulmalıdır.
 * Dosyalar uygun ders klasörüne eklenmelidir.
-* Dosya isimlendirme kurallarına uyulmalıdır.
-* PR açıklaması mümkün olduğunca açık ve anlaşılır olmalıdır.
+* Dosya isimlendirme ve klasör yapısına uyulmalıdır.
+* PR açıklaması açık ve anlaşılır olmalıdır.
 * Aynı dosyanın birden fazla kopyası yüklenmemelidir.
 * Telif hakkı bulunan kaynaklar paylaşılırken ilgili kurallara dikkat edilmelidir.
 
